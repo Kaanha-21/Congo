@@ -1,0 +1,7 @@
+# Local editor and operating-system files
+.DS_Store
+Thumbs.db
+
+# Codex scratch space
+work/
+outputs/
