@@ -1,6 +1,6 @@
 (() => {
   // GIFT CARD SETUP: paste the full https:// link between these quotes when it is ready.
-  const GIFT_CARD_URL = "https://youtu.be/QDia3e12czc?si=2pnKVzZ-1lIBgBGD";
+  const GIFT_CARD_URL = "https://youtu.be/NQSeENqfskI?si=xb3N2Widhs0kN9lZ";
   const purple = document.querySelector(".art-purple");
   const meter = document.querySelector("#meter");
   const ambient = document.querySelector("#ambient");
